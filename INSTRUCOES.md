@@ -11,11 +11,11 @@ Estudo do IONIC Curso desenvolvimento web completo
   * Escolher o angular:
   ![Alt text](image.png)
   * Rodar o app:
-  *  Navegar até a pasta:
+  *  Navegar atï¿½ a pasta:
   ```
   cd ionicApp
   ```
   Executar o app:
   ```
-  ionic server
+  ionic serve
   ```
