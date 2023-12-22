@@ -13,3 +13,5 @@ Cartões com listagem de itens:
 ![Alt text](image-4.png)
 - Lista de avatars:
 ![Alt text](image-5.png)
+- Lista com slide para exibir opções ao arrastar o item
+![Alt text](image-6.png)
