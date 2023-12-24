@@ -26,3 +26,5 @@ Cartões com listagem de itens:
 ![Alt text](image-10.png)
 - Input placeholder:
 ![Alt text](image-11.png)
+Input com clearInput:
+![Alt text](image-12.png)
