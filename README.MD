@@ -20,3 +20,5 @@ Cartões com listagem de itens:
 ![Alt text](image-7.png)
 - Input label postion floating:
 ![Alt text](image-8.png)
+- Input label fixed/ stacked:
+![Alt text](image-9.png)
