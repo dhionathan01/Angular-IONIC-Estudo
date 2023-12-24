@@ -28,3 +28,5 @@ Cartões com listagem de itens:
 ![Alt text](image-11.png)
 Input com clearInput:
 ![Alt text](image-12.png)
+Tipos de input:
+![Alt text](image-13.png)
