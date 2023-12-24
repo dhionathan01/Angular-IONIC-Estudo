@@ -15,3 +15,6 @@ Cartões com listagem de itens:
 ![Alt text](image-5.png)
 - Lista com slide para exibir opções ao arrastar o item
 ![Alt text](image-6.png)
+- Components de entrada de dados:
+* Input normal <br>
+  ![Alt text](image-7.png)
