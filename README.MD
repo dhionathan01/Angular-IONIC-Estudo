@@ -22,3 +22,5 @@ Cartões com listagem de itens:
 ![Alt text](image-8.png)
 - Input label fixed/ stacked:
 ![Alt text](image-9.png)
+- Input value preenchido:
+- ![Alt text](image-10.png)
