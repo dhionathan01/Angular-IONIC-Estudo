@@ -17,4 +17,6 @@ Cartões com listagem de itens:
 ![Alt text](image-6.png)
 - Components de entrada de dados:
 * Input normal <br>
-  ![Alt text](image-7.png)
+![Alt text](image-7.png)
+- Input label postion floating:
+![Alt text](image-8.png)
