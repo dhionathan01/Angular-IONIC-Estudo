@@ -36,3 +36,5 @@ Cartões com listagem de itens:
 ![Alt text](image-15.png)
 - Ion-Grid alinhamento texto:
 ![Alt text](image-16.png)
+- Ion Grid alinhamento vertical:
+![Alt text](image-17.png)
