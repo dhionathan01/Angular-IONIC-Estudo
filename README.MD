@@ -32,3 +32,5 @@ Cartões com listagem de itens:
 ![Alt text](image-13.png)
 - Ion-Grid:
 ![Alt text](image-14.png)
+- Ion-grid-offset:
+![Alt text](image-15.png)
