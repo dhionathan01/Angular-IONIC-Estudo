@@ -26,7 +26,9 @@ Cartões com listagem de itens:
 ![Alt text](image-10.png)
 - Input placeholder:
 ![Alt text](image-11.png)
-Input com clearInput:
+- Input com clearInput:
 ![Alt text](image-12.png)
-Tipos de input:
+- Tipos de input:
 ![Alt text](image-13.png)
+- Ion-Grid:
+![Alt text](image-14.png)
