@@ -38,3 +38,8 @@ Cartões com listagem de itens:
 ![Alt text](image-16.png)
 - Ion Grid alinhamento vertical:
 ![Alt text](image-17.png)
+Criando uma nova página com Ionic:
+```
+ionic generate page informacoes
+``` 
+![Alt text](image-18.png)
