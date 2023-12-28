@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  public titulo: string = "App Com Angular";
 
 }
