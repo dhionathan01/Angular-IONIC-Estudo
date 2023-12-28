@@ -48,3 +48,6 @@ ionic generate page informacoes
 ![Alt text](image-19.png)
 - Property Binding, passando um valor para uma propriedade :
 ![Alt text](image-20.png)
+
+- Definindo um método e chamando:
+![Alt text](image-21.png)
