@@ -44,5 +44,7 @@ ionic generate page informacoes
 ``` 
 ![Alt text](image-18.png)
 
-Criando um atributo e o chamando na view com angular:
+- Criando um atributo e o chamando na view com angular:
 ![Alt text](image-19.png)
+- Property Binding, passando um valor para uma propriedade :
+![Alt text](image-20.png)
