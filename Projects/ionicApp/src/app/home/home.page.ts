@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   public titulo: string = "App Com Angular";
-  public imagemRandomica: string = "https://source.unsplash.com/random/800x600"
+  public imagemRandomica: string = "https://source.unsplash.com/random/800x600";
+  public imagemLocal: string = "../assets/img/icone-celular.png";
 }
