@@ -14,4 +14,7 @@ export class HomePage {
   public atualizar(): void {
     this.titulo = "Texto alterado";
   }
+  public acao(): void {
+    this.titulo = "Botão clicado";
+  }
 }
