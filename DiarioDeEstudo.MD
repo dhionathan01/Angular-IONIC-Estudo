@@ -53,3 +53,5 @@ ionic generate page informacoes
 ![Alt text](image-21.png)
 - Event binding, click do botão acionando um metodo:
 ![Alt text](image-22.png)
+- Navegação entre páginas / ngModel:
+![Alt text](<ionic Navegação e ngModel.gif>)
