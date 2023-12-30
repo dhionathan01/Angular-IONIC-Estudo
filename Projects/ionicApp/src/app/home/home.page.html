@@ -7,6 +7,18 @@
 </ion-header>
 
 <ion-content [fullscreen]="true" class="ion-padding">
+  <h1>Modelo</h1>
+  <ion-item>
+    <ion-label position="stacked">Digite:</ion-label>
+    <ion-input [(ngModel)]="pesquisa" type="text"></ion-input>
+  </ion-item>
+  <ion-button (click)="recuperarConteudoInput()" expand="full">
+    <ion-icon slot="start" name="search"></ion-icon>
+    <ion-label>Pesquisar</ion-label>
+  </ion-button>
+  <h4>Conteudo digitado: {{pesquisa}}</h4>
+  <h4>Conteudo pesquisado: {{resultado}}</h4>
+
   <h1>Navegação</h1>
   <ion-button (click)="abrirLista()" expand="full" routerDirection="forward">Atualizações</ion-button>
   <ion-button (click)="abrirInformacoes()" expand="full" routerDirection="forward">Novidades</ion-button>

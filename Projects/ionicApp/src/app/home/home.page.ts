@@ -9,6 +9,8 @@ import { NavController } from '@ionic/angular';
 export class HomePage implements OnInit{
 
   public titulo: string = "App Com Angular";
+  public pesquisa: string = "";
+  public resultado: string = "";
   public imagemRandomica: string = "https://source.unsplash.com/random/800x600";
   public imagemLocal: string = "../assets/img/icone-celular.png";
 
@@ -31,5 +33,8 @@ export class HomePage implements OnInit{
   public abrirInformacoes() {
     this.navegacao.navigateForward('informacoes');
 
+  }
+  public recuperarConteudoInput() {
+    this.resultado = this.pesquisa;
   }
 }
